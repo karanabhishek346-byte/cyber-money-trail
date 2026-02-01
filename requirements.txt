@@ -2,3 +2,8 @@ streamlit
 pandas
 networkx
 pyvis
+openpyxl
+python-docxstreamlit
+pandas
+networkx
+pyvis
